@@ -1,2 +1,3 @@
 MainActivity.kt has the main code,
-todolist_demo.mp4 for the demo video
+todolist_demo.mp4 for the demo video,
+todolist.apk for the apk file
